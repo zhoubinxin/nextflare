@@ -22,6 +22,7 @@
     "@cloudflare/workers-types": "^4.20240620.0",
     "@lemonsqueezy/lemonsqueezy.js": "^2.2.0",
     "@lemonsqueezy/wedges": "^1.2.2",
+    "@sentry/nextjs": "^8",
     "clsx": "^2.1.0",
     "drizzle-orm": "^0.31.2",
     "geist": "^1.2.2",
